@@ -1,12 +1,11 @@
-# The Manager Discord Bot
+# Менеджер Дискорд бот
 
-The Manager is a Discord bot used to dynamically manage guild channels by creating new voice channels for users and
-automatically deleting them.The bot is written in C#.
+Менеджер - это бот Discord, используемый для динамического управления каналами сервера путем создания новых голосовых каналов для пользователей и
+автоматического их удаления.Бот написан на C#.
 
-## Features
+## Что может?
 
-- Creating voice channels by users in a category
-- Restricting access to created channels for certain roles and / or users
-- Defining the category in which new channels will be created
-
+- Создавать голосовые каналы по вводу пользователя
+- Ограничение доступа к созданным каналам для определенных ролей и/или пользователей
+- Определение категории, в которой будут создаваться новые каналы
 
